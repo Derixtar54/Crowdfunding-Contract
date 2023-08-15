@@ -5,6 +5,9 @@ The use case of this smart contract is to allow for a secure and transparent vot
 Here are some of the benefits of using a smart contract for voting:
 
 -> It is more secure than traditional voting systems.
+
 -> It is more transparent.
+
 -> It is more efficient.
+
 -> It is more accessible.
